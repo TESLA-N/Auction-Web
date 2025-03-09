@@ -58,21 +58,21 @@ const Footer = () => {
               href="mailto:support@auctionplatform.com"
               className="text-black hover:text-[#4749e9]"
             >
-              samarjit9203@gmail.com
+              nk140956@gmail.com
             </a>
           </p>
           <p>Phone: +1 (123) 456-7890</p>
           <p className="mt-2">Follow us on:</p>
           <div className="flex space-x-4 mt-2">
             <a
-              href="https://linkedin.com/in/samarjitsahoo"
+              href="https://www.linkedin.com/in/nitishkumar200/"
               target="_blank"
               className="hover:text-[#4749e9]"
             >
               Linkedin
             </a>
             <a
-              href="https://github.com/samarjitsahoo"
+              href="https://github.com/TESLA-N"
               target="_blank"
               className="hover:text-[#4749e9]"
             >
@@ -84,13 +84,13 @@ const Footer = () => {
 
       <div className="text-center mt-8 border-t border-gray-700 pt-4 text-sm">
         <p>
-          &copy; 2024 SamarBid. All rights reserved. | Developed by{" "}
+          &copy; 2025 PriceBid. All rights reserved. | Developed by{" "}
           <a
             href="https://samarjit.vercel.app"
             target="_blank"
             className="hover:text-[#4749e9]"
           >
-            Samarjit
+            Nitish Kumar
           </a>
         </p>
       </div>

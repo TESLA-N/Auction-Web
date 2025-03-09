@@ -40,7 +40,7 @@ const SideDrawer = () => {
         <div className="relative">
           <Link to={"/"}>
             <h4 className="text-2xl font-semibold mb-4">
-              Samar<span className="text-[#4749e9]">Bid</span>
+              Price<span className="text-[#4749e9]">Bid</span>
             </h4>
           </Link>
           <ul className="flex flex-col gap-3">
@@ -163,7 +163,7 @@ const SideDrawer = () => {
         <div>
           <div className="flex gap-2 items-center mb-2">
             <a
-              href="mailto:samarjit9203@gmail.com"
+              href="mailto:nk140956@gmail.com"
               className="bg-white text-stone-500 p-2 text-xl rounded-sm hover:text-blue-700"
               target="_blank"
               rel="noopener noreferrer"
@@ -171,7 +171,7 @@ const SideDrawer = () => {
               <BiLogoGmail />
             </a>
             <a
-              href="https://github.com/samarjitsahoo"
+              href="https://github.com/TESLA-N"
               className="bg-white text-stone-500 p-2 text-xl rounded-sm hover:text-blue-700"
               target="_blank"
               rel="noopener noreferrer"
@@ -186,7 +186,7 @@ const SideDrawer = () => {
           >
             Contact Us
           </Link>
-          <p className="text-stone-500">&copy; SamarBid, LLC.</p>
+          <p className="text-stone-500">&copy; PriceBid, LLC.</p>
           <p className="text-stone-500">
             Developed By{" "}
             <a
@@ -195,7 +195,7 @@ const SideDrawer = () => {
               rel="noopener noreferrer"
               className="font-semibold hover:text-[#4749e9] hover:transition-all hover:duration-150"
             >
-              Samarjit
+             Nitish Kumar
             </a>
           </p>
         </div>

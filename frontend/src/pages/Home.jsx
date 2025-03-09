@@ -34,7 +34,7 @@ const Home = () => {
           <h1
             className={`text-[#111] text-4xl font-bold mb-2 min-[480px]:text-4xl md:text-6xl xl:text-7xl 2xl:text-8xl`}
           >
-            Samar<span className="text-[#4749e9]">Bid</span>
+            Price<span className="text-[#4749e9]">Bid</span>
           </h1>
           <h1
             className={`text-[#111] text-4xl font-bold mb-2 min-[480px]:text-4xl md:text-6xl xl:text-7xl 2xl:text-8xl`}

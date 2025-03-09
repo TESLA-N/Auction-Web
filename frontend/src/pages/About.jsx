@@ -38,7 +38,7 @@ const About = () => {
             About Us
           </h1>
           <p className="text-xl text-stone-600 text-justify mt-5">
-            Welcome to SamarBid, the ultimate destination for online auctions
+            Welcome to PriceBid, the ultimate destination for online auctions
             and bidding excitement. Established in 2024, we aim to redefine the
             auction experience by providing a dynamic and user-friendly platform
             where buyers and sellers can come together to trade with confidence.
@@ -46,7 +46,7 @@ const About = () => {
             innovation, ensuring that every transaction is seamless and
             enjoyable. Whether you're here to find unique items, connect with a
             wider audience, or enjoy the excitement of competitive bidding,
-            SamarBid is the place for you.
+            PriceBid is the place for you.
           </p>
         </div>
         <div>
@@ -56,7 +56,7 @@ const About = () => {
             Our Mission
           </h3>
           <p className="text-xl text-stone-600 text-justify">
-            At SamarBid, our mission is to revolutionize how people buy and sell
+            At PriceBid, our mission is to revolutionize how people buy and sell
             online by creating a vibrant, inclusive, and secure marketplace. We
             are committed to empowering individuals and businesses to explore
             opportunities, make informed decisions, and uncover valuable
@@ -93,12 +93,12 @@ const About = () => {
             Our Story
           </h3>
           <p className="text-xl text-stone-600 text-justify">
-            Founded by Samarjit, SamarBid was created from a deep-seated passion
+            Founded by Nitish Kumar, PriceBid was created from a deep-seated passion
             for connecting people to extraordinary items and experiences. With
             extensive knowledge of the auction industry and a vision to
-            innovate, Samarjit set out to design a platform that simplifies the
+            innovate, Nitish Kumar set out to design a platform that simplifies the
             auction process while retaining its excitement and charm. Today,
-            SamarBid stands as a testament to our dedication to excellence,
+            PriceBid stands as a testament to our dedication to excellence,
             offering users across the globe a platform that blends technology,
             accessibility, and community-driven values.
           </p>
@@ -111,7 +111,7 @@ const About = () => {
           </h3>
           <p className="text-xl text-stone-600 text-justify">
             Whether you're here to find exceptional items, expand your business
-            reach, or simply explore a world of possibilities, SamarBid welcomes
+            reach, or simply explore a world of possibilities, PriceBid welcomes
             you to be part of our ever-growing community. Dive into the
             exhilarating world of online auctions, where every bid brings
             excitement, every sale opens new opportunities, and every user
@@ -122,7 +122,7 @@ const About = () => {
         </div>
         <div>
           <p className="text-[#4749e9] text-xl font-bold mb-3">
-            Thank you for choosing SamarBid. We are honored to have you with us
+            Thank you for choosing PriceBid. We are honored to have you with us
             and look forward to supporting you on your auction journey!
           </p>
         </div>
