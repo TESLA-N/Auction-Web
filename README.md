@@ -60,7 +60,7 @@ Dynamic UI updates with React.js
 
 ⿡ Clone the Repository
 
-git clone https://github.com/TESLA-N/Auction-Web.git cd PriceBide
+git clone https://github.com/TESLA-N/Auction-Web.git cd PriceBid
 
 ⿢ Install Dependencies
 
